@@ -1,0 +1,15 @@
+{
+  "name": "enigmaissue944_ex",
+  "version": "1.0.0",
+  "description": "Simple example to demo EnigmaJS issue 944.",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "enigma.js": "^2.8.0",
+    "ws": "^8.5.0"
+  }
+}
